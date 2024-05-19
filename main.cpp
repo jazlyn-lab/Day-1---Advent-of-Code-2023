@@ -79,7 +79,7 @@ int main()
   // Calculate the sum of calibration values
   int result = addCalibValues(lines);
 
-  cout << "Summ of al calibration values: " << result << endl;
+  cout << "Summ of all calibration values: " << result << endl;
 
   return 0; 
 }
